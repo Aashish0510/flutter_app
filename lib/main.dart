@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:preview_project/providers/mate_provider.dart';
-import 'package:preview_project/screens/home/home_screen.dart';
 import 'package:preview_project/screens/loading_screen.dart';
 import 'package:provider/provider.dart';
 
